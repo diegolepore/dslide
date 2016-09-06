@@ -1,2 +1,0 @@
-# dslide
-Simple js slider
